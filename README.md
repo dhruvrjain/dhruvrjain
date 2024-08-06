@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Credit Scoring using Machine Learning**
 
-- 🌱 I am currently learning **Machine Learning**
+- 🌱 I am currently learning **Machine Learning**, **React**
 
 - 💭 Ask me about **DSA, Flutter dev, Node.js**
 
